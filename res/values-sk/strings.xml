@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="log_in_success">Prihlásenie úspešné</string>
+    <string name="app_name">jBPM Klient</string>
+    <string name="menu_settings">Nastavenia</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="username">Meno:</string>
+    <string name="password">Heslo:</string>
+    <string name="button_login">Prihlásiť</string>
+    <string name="title_activity_list_of_running_instances">Zoznam procesov</string>
+    <string name="remember">Zapamätať</string>
+    <string name="title_activity_set_up_server">Nastavenie servera</string>
+    <string name="server">URL servera: http://</string>
+    <string name="hint_username">meno</string>
+    <string name="hint_password">heslo</string>
+    <string name="hint_server">server</string>
+    <string name="ok">OK</string>
+    <string name="clear">Vymazať</string>
+    <string name="logo">logo</string>
+    <string name="title_activity_instances_list">Zoznam inštancií</string>
+    <string name="start">Spustiť</string>
+    <string name="delete">Zmazať</string>
+    <string name="diagram">Diagram</string>
+    <string name="info">Info</string>
+    <string name="refresh">Obnoviť</string>
+    <string name="title_activity_picture">Obrázok</string>
+    <string name="startdate">Dátum spustenia: </string>
+    <string name="state">Stav: </string>
+    <string name="version">Verzia: </string>
+    <string name="log_out">Odhlásiť</string>
+    <string name="configure_server">Zvoľte menu -> Nastaviť server pre nastavenie servera</string>
+    <string name="log_in_unsuccess">Prihlásenie zlyhalo</string>
+    <string name="processes_loaded">Procesy načítané</string>
+    <string name="active_nodes">Aktívne uzly: </string>
+    <string name="terminate">Ukončiť</string>
+	<string name="picture">Obrázok stiahnutý</string>
+	<string name="picture_save">Uložiť diagram ako .PNG</string>
+	<string name="set_up_server">Nastaviť server</string>
+	<string name="clear_user_data">Vymazať všetky dáta</string>
+	<string name="new_instance">Nová inštancia</string>
+
+</resources>

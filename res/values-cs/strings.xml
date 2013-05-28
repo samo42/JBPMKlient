@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="log_in_success">Přihlášení úspěšné</string><string name="app_name">jBPM Client</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="username">Jméno:</string>
+    <string name="password">Heslo:</string>
+    <string name="button_login">Přihlášení</string>
+    <string name="title_activity_list_of_running_instances">Seznam Procesů</string>
+    <string name="remember">Zapamatovat</string>
+    <string name="title_activity_set_up_server">Nastavit server</string>
+    <string name="server">URL serveru: http://</string>
+    <string name="hint_username">jméno</string>
+    <string name="hint_password">heslo</string>
+    <string name="hint_server">server</string>
+    <string name="ok">OK</string>
+    <string name="clear">Vymazat</string>
+    <string name="logo">logo</string>
+    <string name="title_activity_instances_list">Seznam instancí</string>
+    <string name="start">Spustit</string>
+    <string name="delete">Smazat</string>
+    <string name="diagram">Diagram</string>
+    <string name="info">Info</string>
+    <string name="refresh">Obnovit</string>
+    <string name="title_activity_picture">Obrázek</string>
+    <string name="startdate">Dátum spuštení: </string>
+    <string name="state">Stav: </string>
+    <string name="version">Verze: </string>
+    <string name="log_out">Odhlásit se</string>
+    <string name="configure_server">Zvolte menu -> Nastavení serveru pro nastavení serveru</string>
+    <string name="log_in_unsuccess">Přihlašování selhalo</string>
+    <string name="processes_loaded">Procesy načítány</string>
+    <string name="active_nodes">Aktivní uzly: </string>
+    <string name="terminate">Ukončit</string>
+	<string name="picture">Obrázek stažen</string>
+	<string name="picture_save">Uložit obrázek jako .PNG</string>
+	<string name="set_up_server">Nastavit server</string>
+	<string name="clear_user_data">Vymzat veškerá data</string>
+	<string name="new_instance">Nová instance</string>
+
+</resources>

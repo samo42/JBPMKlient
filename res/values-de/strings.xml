@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="log_in_success">erfolgreiche Anmeldung</string>
+    <string name="app_name">jBPM Klient</string>
+    <string name="menu_settings">Einstellung</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="username">Name:</string>
+    <string name="password">Paswort:</string>
+    <string name="button_login">Anmeldung</string>
+    <string name="title_activity_list_of_running_instances">Liste von Prozeßen</string>
+    <string name="remember">sich merken</string>
+    <string name="title_activity_set_up_server">Server einstellen</string>
+    <string name="server">Server URL: http://</string>
+    <string name="hint_username">name</string>
+    <string name="hint_password">passwort</string>
+    <string name="hint_server">server</string>
+    <string name="ok">OK</string>
+    <string name="clear">löschen</string>
+    <string name="logo">logo</string>
+    <string name="title_activity_instances_list">Liste von Instanzen</string>
+    <string name="start">Start</string>
+    <string name="delete">Löschen</string>
+    <string name="diagram">Diagramm</string>
+    <string name="info">Info</string>
+    <string name="refresh">erneuern</string>
+    <string name="title_activity_picture">Picture</string>
+    <string name="startdate">Startdatum: </string>
+    <string name="state">Stand: </string>
+    <string name="version">Version: </string>
+    <string name="log_out">sich abmelden</string>
+    <string name="configure_server">Menu auswählen  -> Server einstellen</string>
+    
+    <string name="log_in_unsuccess"> Anmeldung ist misslungen</string>
+    <string name="processes_loaded">Prozeßen herunterladen</string>
+    <string name="active_nodes">aktive Knoten: </string>
+	<string name="terminate">beenden</string>
+	<string name="picture">Bild heruntergeladen</string>
+	<string name="picture_save">speichern Diagramm als .PNG</string>
+	<string name="set_up_server">Server einrichten</string>
+	<string name="clear_user_data">alle Daten löschen</string>
+	<string name="new_instance">neue Instanz</string>
+</resources>
