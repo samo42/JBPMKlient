@@ -23,9 +23,9 @@ First, install emulator from Android SDK manager. This app is compatibile with a
 Before deploying, run emulator. Then run "mvn clean install android:deploy" and "mvn clean install android:run".
 
 
-Example (my) configuration (Win 7):
-jdk7
-Maven 3.0.5
-Android API 16
-Google API 16
-Emulators with Android 3.0 and 4.1 on it.
+<b>Example (my) configuration (Win 7):</b><br>
+jdk7<br>
+Maven 3.0.5<br>
+Android API 16<br>
+Google API 16<br>
+Emulators with Android 3.0 and 4.1 on it.<br>
