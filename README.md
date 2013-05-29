@@ -13,7 +13,7 @@ This app was developed as a bachelor work, it's rather a showcase of how to mana
 <b>Prerequisities:</b>
 JDK 1.6+
 Android SDK 16
-Maven 3.0.5 (or sooner, then you have to rewrite it in pom.xml)
+Maven 3.0.5 (or older, then you might have to rewrite it in pom.xml)
 
 <b>Set variables:</b>
 ANDROID_HOME variable set to your installed Android SDK. Add $ANDROID_HOME/tools and $ANDROID_HOME/platform-tools to $PATH
@@ -23,3 +23,9 @@ First, install emulator from Android SDK manager. This app is compatibile with a
 Before deploying, run emulator. Then run "mvn clean install android:deploy" and "mvn clean install android:run".
 
 
+Example (my) configuration (Win 7):
+jdk7
+Maven 3.0.5
+Android API 16
+Google API 16
+Emulators with Android 3.0 and 4.1 on it.
